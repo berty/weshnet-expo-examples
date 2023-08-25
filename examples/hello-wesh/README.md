@@ -37,7 +37,7 @@ $ pod install
 
 ### 4. Running the app on a device
 
-Since native modules doesn't work on the Expo Go, you need to run the app as a [standalone app](https://docs.expo.dev/workflow/run-on-device/#running-a-project-as-a-standalone-app):
+Since native modules doesn't work on the Expo Go, you need to run the app as a [standalone app](https://docs.expo.dev/modules/use-standalone-expo-module-in-your-project/):
 
 ```bash
 $  npx expo run:[ios|android] --device
