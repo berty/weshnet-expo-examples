@@ -4,7 +4,9 @@
 <h1 align="center">
 Wesh Network Expo Module Examples
 </h1>
-
+<h2>
+<mark>🚧 This project is work In Progress. This library cannot be used yet.</mark>
+</h2>
 <p align="center">
     <a href="https://berty.tech"><img alt="Made by Berty Technologies" src="https://assets.berty.tech/files/badge--10.svg" /></a>
     <a href="https://crpt.fyi/berty-discord"><img alt="discord" src="https://img.shields.io/badge/discord-gray?logo=discord" /></a>
